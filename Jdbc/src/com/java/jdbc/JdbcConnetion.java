@@ -1,8 +1,8 @@
 package com.java.jdbc;
 import java.sql.*;
 public class JdbcConnetion
-{  
-	public static void main(String args[]) throws Exception
+{    
+  public static void main(String args[]) throws Exception
 	{ 
 		//String url = "jdbc:mysql://localhost:3306/emp"; 
         //String user = "root"; 
